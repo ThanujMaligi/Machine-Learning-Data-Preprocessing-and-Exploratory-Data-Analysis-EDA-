@@ -4,31 +4,30 @@
 The goal is to understand and apply various data preprocessing techniques and perform exploratory data analysis on a given dataset. You will learn how to clean, transform, and analyze data to uncover meaningful patterns and insights, which are essential steps before building any machine learning model.
 
 **1. Data Cleaning:**
-o Identify and describe the types of data quality issues present in the dataset. (e.g., missing values, duplicates, outliers).
-o Implement techniques to handle missing values and justify the chosen methods (e.g., imputation, removal).
-o Detect and remove duplicate entries in the dataset.
+Identify and describe the types of data quality issues present in the dataset. (e.g., missing values, duplicates, outliers).
+Implement techniques to handle missing values and justify the chosen methods (e.g., imputation, removal).
+Detect and remove duplicate entries in the dataset.
 
 **2. Data Transformation:**
-o Perform data normalization or standardization where applicable and explain the rationale behind the transformation.
+Perform data normalization or standardization where applicable and explain the rationale behind the transformation.
 
 **3. Handling Categorical Data:**
-o Identify categorical variables in the dataset.
-o Convert categorical data into numerical formats using techniques like one-hot encoding or label encoding. Explain the impact of these transformations on the dataset.
+Identify categorical variables in the dataset.
+Convert categorical data into numerical formats using techniques like one-hot encoding or label encoding. Explain the impact of these transformations on the dataset.
 
 **4. Feature Engineering:**
-o Create new features based on existing data that could potentially improve the performance of a machine learning model. Explain your thought process.
-o Analyze the importance of these new features using correlation or other statistical methods.
+Create new features based on existing data that could potentially improve the performance of a machine learning model. Explain your thought process.
+Analyze the importance of these new features using correlation or other statistical methods.
 
 **5. Exploratory Data Analysis (EDA):**
-o Perform univariate analysis on at least three features, including both numerical and categorical features. Visualize and interpret the distributions.
-o Conduct bivariate analysis to explore relationships between different features. Use visualizations like scatter plots, heatmaps, or pair plots.
+Perform univariate analysis on at least three features, including both numerical and categorical features. Visualize and interpret the distributions.
+Conduct bivariate analysis to explore relationships between different features. Use visualizations like scatter plots, heatmaps, or pair plots.
 
 **6. Outlier Detection and Handling:**
-o Identify outliers in the dataset if any
-o Discuss the impact of outliers on your analysis and decide whether to remove or transform them.
+Identify outliers in the dataset 
 
 **7. Data Visualization:**
-o Create meaningful visualizations (e.g., histograms, box plots, bar charts) to summarize the key findings from your EDA. Explain the insights gained from these visualizations.
+Creating meaningful visualizations (e.g., histograms, box plots, bar charts) to summarize the key findings from EDA. Explaining the insights gained from these visualizations.
 
 **8. Correlation Analysis:**
-o Calculate the correlation matrix for the numerical features in the dataset. Identify and discuss any strong correlations or lack thereof. How might this influence model selection?
+Calculating the correlation matrix for the numerical features in the dataset. Identify and discuss any strong correlations or lack thereof. How might this influence model selection?
